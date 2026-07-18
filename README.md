@@ -2,7 +2,7 @@
 
 A machine learning project predicting the outcome of the 2026 FIFA World Cup Final between **Spain ** and **Argentina **, using 30+ years of international football results combined with historical FIFA rankings.
 
-## 🔮 Prediction
+##  Prediction
 
 | Team | Win Probability |
 |------|-----------------|
